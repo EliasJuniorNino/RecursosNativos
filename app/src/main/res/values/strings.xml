@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recursos Nativos</string>
+    <string name="galley_denied">Não foi possiveo acesar a camera porque voçe negou a permissao</string>
+    <string name="camera_denied">Voce nao aceitou as permissoes de camera</string>
+    <string name="no_camera_found">Seu dispositivo nao possui uma camera.</string>
+    <string name="video_gallery_permission_denied">Voçe nao permitiu que o aplicativo acesse sua galeria de videos.</string>
+    <string name="location_permission_denied">Estou sem acesso a sua localizaçao</string>
+</resources>
